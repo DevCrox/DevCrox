@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning : LUA, HTML, CSS, Advanced Python programming.
 - 💞️ I’m looking to collaborate on any project, Probably not those big ones but I'm not that bad coding with python tho.
 - 🎯 Goals : My goal is to become a proficient Python developer and contribute to open-source projects. I’m excited to learn more and take on new challenges!
-- 📫 How to reach me : Discord would be the easiest I think, my username is ._.itadori._.
+- 📫 How to reach me : Discord would be the easiest I guess, my username is hi.net
 - 😄 Pronouns: You/ He/ Him
 - ⚡ Fun fact: I always touch grass ! Seriously, I like playing soccer but not watching it...
 
