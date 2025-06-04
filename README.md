@@ -1,13 +1,29 @@
-- 👋 Hi, I’m @DevCrox
-- 👀 I’m interested in Coding for sure! I'm open to any project I could learn from !
-- 🌱 I’m currently learning : LUA, HTML, CSS, Advanced Python programming and just starting Javascript.
-- 💞️ I’m looking to collaborate on any project, Probably not those big ones but I'm not that bad coding with python tho.
-- 🎯 Goals : My goal is to become a proficient Python developer and contribute to open-source projects. I’m excited to learn more and take on new challenges!
-- 📫 How to reach me : Discord would be the easiest I guess, my username is hi.net
-- 😄 Pronouns: You/ He/ Him
-- ⚡ Fun fact: I always touch grass ! Seriously, I like playing soccer but not watching it...
+# 👋 Hey there, I’m DevCrox
 
-<!---
-DevCrox/DevCrox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate learner and self-driven developer exploring various areas of programming. I enjoy building things, learning new technologies, and contributing to projects that challenge me.
+
+## 🔭 What I’m Working On
+- Enhancing my skills in **Python**, especially advanced topics and real-world applications.
+- Learning the ropes of **JavaScript**, **LUA**, **HTML**, and **CSS**.
+- Exploring small collaborative projects where I can contribute and grow.
+
+## 🚀 Goals
+- Become a proficient Python developer.
+- Actively contribute to open-source projects.
+- Build and share projects that solve real problems and help others.
+
+## 🤝 Open to Collaborate On
+- Python-based tools, bots, or automation scripts.
+- Web-related beginner-friendly projects.
+- Learning-focused collaborations where knowledge sharing is a priority.
+
+## 📫 Reach Me
+- Discord: `hi.net` — feel free to connect or discuss ideas!
+
+## 💡 Fun Facts
+- I actually *do* touch grass — I play soccer regularly (but I don’t enjoy watching it 😄).
+- I believe coding is more fun when you're learning with others.
+
+---
+
+> *Always learning. Always building. Always improving.*
