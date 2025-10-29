@@ -3,18 +3,18 @@
 I'm a passionate learner and self-driven developer exploring various areas of programming. I enjoy building things, learning new technologies, and contributing to projects that challenge me.
 
 ## 🔭 What I’m Working On
-- Enhancing my skills in **Python**, especially advanced topics and real-world applications.
-- Learning the ropes of **JavaScript**, **LUA**, **HTML**, and **CSS**.
+- Enhancing my skills in **Web Development**, especially advanced topics and real-world applications.
+- Constantly learning **JavaScript**, **Python**, **SCSS/SASS**, **HTML**, and **CSS**.
 - Exploring small collaborative projects where I can contribute and grow.
 
 ## 🚀 Goals
-- Become a proficient Python developer.
+- Become a proficient developer.
 - Actively contribute to open-source projects.
 - Build and share projects that solve real problems and help others.
 
 ## 🤝 Open to Collaborate On
 - Python-based tools, bots, or automation scripts.
-- Web-related beginner-friendly projects.
+- Web-related projects.
 - Learning-focused collaborations where knowledge sharing is a priority.
 
 ## 📫 Reach Me
