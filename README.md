@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20there,%20I'm%20DevCrox&fontSize=70&fontAlignY=40&animation=twinkling" alt="Hey there I'm DevCrox banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20there,%20I'm%20DevCrox&fontSize=70&fontAlignY=40&animation=twinkling" alt="Hey there I'm DevCrox banner" width="100%"/>
 </div>
 
 I'm a passionate learner and self-driven developer exploring various areas of programming. I enjoy building things, learning new technologies, and contributing to projects that challenge me.
