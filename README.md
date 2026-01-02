@@ -1,10 +1,5 @@
-# 👋 Hey there, I’m DevCrox
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Hey,+what's+up%3F;Welcome+to+my+profile" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20what's%20up!&fontSize=70&fontAlignY=40&animation=twinkling" alt="Hey whats up banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20there,%20I'm%20DevCrox&fontSize=70&fontAlignY=40&animation=twinkling" alt="Hey there I'm DevCrox banner"/>
 </div>
 
 I'm a passionate learner and self-driven developer exploring various areas of programming. I enjoy building things, learning new technologies, and contributing to projects that challenge me.
